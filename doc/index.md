@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "NoneBotGUI"
+  name: "Re:NoneBot GUI"
   tagline: 新一代 NoneBot 图形化界面
   image:
     src: /logo.png
