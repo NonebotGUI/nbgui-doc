@@ -33,5 +33,5 @@ pip install nb-cli
 ## appindicator(Linux)
 
 ```bash
-sudo apt-get install appindicator3-0.1 libappindicator3-dev
+sudo apt-get install appindicator3-0.1 libappindicator3-dev libnotify-dev
 ```
