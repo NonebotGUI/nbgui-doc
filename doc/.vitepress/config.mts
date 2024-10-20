@@ -32,6 +32,7 @@ export default defineConfig({
           { text: '创建 Bot', link: '/guide/create-bot.md' },
           { text: '导入 Bot', link: '/guide/import-bot.md' },
           { text: '常用操作', link: '/guide/operate.md' },
+          { text: '一键部署', link: '/guide/gui_deploy.md' },
 
         ]
       },

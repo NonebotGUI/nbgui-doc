@@ -23,9 +23,6 @@
 
 ![img](/images/managebot3.png)
 
-选择心仪的插件并安装
-
-![img](/images/managebot4.png)
 
 ## 报错日志
 
