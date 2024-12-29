@@ -13,8 +13,8 @@ hero:
       text: 🎉 快速开始
       link: /before/before-start.html
     - theme: alt
-      text: NoneBot 官方文档
-      link: https://nonebot.dev/
+      text: WebUI 版本
+      link: https://webui.nbgui.top/
 
 features:
   - title: 快速上手，开箱即用

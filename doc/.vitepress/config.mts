@@ -10,7 +10,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '官方网站', link: 'https://nbgui.top' },
-      { text: 'API', link: 'https://api.nbgui.top/api' },
+      { text: 'WebUI 版本', link: 'https://webui.nbgui.top/' },
 
     ],
     footer: {
